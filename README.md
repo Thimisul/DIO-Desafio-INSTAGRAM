@@ -1,4 +1,4 @@
-# Desafio "Recriando a pagina inicial do Instagram" da [@Digital One Inovation](https://web.digitalinnovation.one/)
+# Desafio "Recriando a pagina inicial do Instagram" da [Digital Inovation One](https://web.digitalinnovation.one/)
 
 Esse é o repositório da aula de Flexbox, na qual fizemos a interface de login do Instagram! 
 
